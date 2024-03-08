@@ -1,5 +1,25 @@
 {
   "TemplateESM": {
-    "title": "Template Svelte (ESM)"
+    "title": "Token Note Hover Svelte"
+  },
+  "token-note-hover": {
+    "Settings": {
+      "Enabled": {
+        "Name": "Hover Enabled",
+        "Hint": "Show the token note on hover."
+      },
+      "DarkMode": {
+        "Name": "Dark Mode",
+        "Hint": "Show note with light text on a dark background."
+      },
+      "FontSize": {
+        "Name": "Text Size Override",
+        "Hint": "Override the base text size for the token entry display. Example: 1.5rem."
+      },
+      "MaxWidth": {
+        "Name": "Maximum Width",
+        "Hint": "The maximum width in px the note display can grow to before it will force wrapping."
+      }
+    }
   }
 }

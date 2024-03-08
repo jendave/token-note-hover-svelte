@@ -23,7 +23,10 @@
     "svelte-preprocess": "^5",
     "vite": "^4.4.0"
   },
-  "browserslist": [">5%", "not IE 11"],
+  "browserslist": [
+    ">5%",
+    "not IE 11"
+  ],
   "scripts": {
     "build": "vite build",
     "dev": "vite",

@@ -61,3 +61,9 @@ TRL is innovative as it delivers a runtime library module for Foundry that packa
 can be shared across any number of modules / game systems utilizing it thereby saving a lot of space in any given
 module or game system. Optionally, it is possible to also bundle TRL directly into your module or game system. The TRL
 is both a Foundry library module and an NPM package providing the development dependency utilized for code 
+
+
+ 9815  ln -s ~/mygit/starforged/reference/template-svelte-esm ~/mygit/foundrydata/Data/modules/template-svelte-esm
+ 9822  ln -s ~/mygit/starforged/reference/essential-svelte-esm ~/mygit/foundrydata/Data/modules/essential-svelte-esm
+ 9857  history | grep ln
+ 9858  ln -s ~/mygit/starforged/reference/foundryvtt-pin-cushion ~/mygit/foundrydata/Data/modules/pin-cushion

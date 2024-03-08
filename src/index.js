@@ -1,3 +1,3 @@
-import BasicApplication from './view/BasicApplication.js';
+import PositionBasicOverlayApp from './view/PositionBasicOverlayApp.js';
 
-Hooks.once('ready', () => new BasicApplication().render(true, { focus: true }));
+Hooks.once('ready', () => new PositionBasicOverlayApp().render(true, { focus: true }));

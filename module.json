@@ -1,6 +1,6 @@
 {
-  "id": "template-svelte-esm",
-  "title": "Template Svelte (ESM)",
+  "id": "token-note-hover-svelte",
+  "title": "Token Note Hover Svelte",
   "description": "Provides a bare-bones Foundry module template repo to get set up with using the TyphonJS Runtime Library and Svelte with ES Modules.",
   "version": "0.0.0",
   "authors": [
